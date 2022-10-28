@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm currently studying Computer Science @ UNSW
-- 🌱 I’m currently learning C++, Python and JavaScript
+- 🌱 I’m currently learning C++, Bash, Python, Java and Java/TypeScript
 <!--
 **GeorgeMuscat/GeorgeMuscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
